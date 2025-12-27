@@ -1,6 +1,15 @@
-# Daniel Martínez | SMR Tech 💻
+# Daniel Martínez | IT Tech 💻
 
 > "Learning never stops in tech."
+<p align="center">
+    <img src="assets/banner.png"/>
+</p>
+
+## 🧠 Mindset
+
+> Learn by building  
+> Break things to understand them  
+> Security first
 
 ### 🚀 Currently working on
 - Building small web projects
@@ -10,11 +19,8 @@
 - JavaScript
 - Ethical Hacking
 
-## 🧠 Mindset
-
-> Learn by building  
-> Break things to understand them  
-> Security first
+### 📫 You can reach me
+- Email: itdanii.00@gmail.com
 
 
 <!--
